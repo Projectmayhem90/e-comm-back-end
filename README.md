@@ -23,7 +23,7 @@ This e-commerce application was developed to integrate a back-end system that fu
 ## Use
 To begin using the application, navigate to the root directory of the repository and initiate it by running the command "npm start". Next, interact with the application using Insomnia, which will allow you to perform various HTTP requests such as GET, POST, and Delete.
 
-[App in use](placeholder link)
+[App in use](https://drive.google.com/file/d/18wXYuVpIv42-MSTA_JPtgy3fSp4Yv7E-/view?usp=sharing)
 
 ## Testing
 None
